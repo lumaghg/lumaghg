@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on **learning to self host MongoDB**
+- 🔭 I’m currently working on **GitHub Advanced Security Checks with Tekton**
 
-- 🌱 I’m currently learning **MongoDB Administration**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on [odatafy](https://github.com/gang-of-fork/odatafy-parser)
 
