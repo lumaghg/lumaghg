@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on **GitHub Advanced Security Checks with Tekton**
+- 🔭 I’m currently working on **Tekton Pipelines**
 
 - 🌱 I’m currently learning **Kubernetes**
 
