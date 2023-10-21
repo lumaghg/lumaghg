@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on **Tekton Pipelines**
+- 🔭 I’m currently working on SaaS solutions for the german public sector.
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Docker Swarm**
 
 - 👯 I’m looking to collaborate on [odatafy](https://github.com/gang-of-fork/odatafy-parser)
 
